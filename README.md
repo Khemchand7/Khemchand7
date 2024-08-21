@@ -27,8 +27,6 @@
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1r42s1pMRUbjED5KrCWGZSKn53Q1Z7FZF/view?usp=drive_link)
 - ⚡ Fun fact: **I think I’m funny!**
 
-<h3 align="left">Connect with me:</h3>
-
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
 <h3 align="left">Languages and Tools:</h3>
