@@ -16,7 +16,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1r42s1pMRUbjED5KrCWGZSKn53Q1Z7FZF/view?usp=drive_link](https://drive.google.com/file/d/1r42s1pMRUbjED5KrCWGZSKn53Q1Z7FZF/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny**
-
+<br/>
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khemchand7" alt="khemchand7" /></a> </p>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khem-chand-3029b7181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khem-chand-3029b7181/" height="30" width="40" /></a>
