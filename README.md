@@ -11,6 +11,9 @@
   <a href="https://instagram.com/khem_chand7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://discord.com/users/khemchand5695">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
   <a href="https://www.hackerrank.com/khemchandk360">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
