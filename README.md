@@ -27,7 +27,7 @@
 - 🔭 I’m currently working on [Netflix-GPT](https://netflix-gpt-opal-nu.vercel.app/)
 - 🌱 I’m currently learning **React, Redux, and Advanced Frontend Development Techniques**
 - 📫 You can reach me at **khemchandk360@gmail.com** or **khem.chand2516@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1m6VfcF0q9zdwxa0byC2_z_Ow_6dB4Xbc/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1rxtFP9pl0Kd_6vme_Pce8aZOnahjeQsU/view?usp=sharing)
 - ⚡ Fun fact: **I think I’m funny!**
 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
