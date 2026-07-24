@@ -409,18 +409,6 @@ Movie recommendation platform powered by LLMs.
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Khemchand7&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khemchand7&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -442,15 +430,6 @@ src="https://streak-stats.demolab.com?user=Khemchand7&theme=github-dark-blue&hid
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khemchand7&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -496,9 +475,6 @@ System Design
 ███████████████████░░░░░░ 80%
 
 Spring Boot
-████████████████████░░░░░ 85%
-
-Database Engineering
 ████████████████████░░░░░ 85%
 
 AI Engineering
