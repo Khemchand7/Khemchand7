@@ -1,0 +1,79 @@
+<svg width="1200" height="540" viewBox="0 0 1200 540" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1200" height="540" rx="20" fill="#0B1120"/>
+
+<text x="60" y="60"
+font-size="34"
+font-family="Segoe UI"
+font-weight="700"
+fill="white">
+AI Engineering Roadmap
+</text>
+
+<text x="60"
+y="95"
+font-size="18"
+fill="#94A3B8"
+font-family="Segoe UI">
+Journey toward Agentic AI
+</text>
+
+<line
+x1="120"
+y1="180"
+x2="1080"
+y2="180"
+stroke="#3B82F6"
+stroke-width="6"/>
+
+<!-- Nodes -->
+
+<circle cx="120" cy="180" r="16" fill="#3B82F6"/>
+<text x="85" y="225" fill="white" font-size="18">LLMs</text>
+
+<circle cx="300" cy="180" r="16" fill="#3B82F6"/>
+<text x="260" y="225" fill="white" font-size="18">OpenAI APIs</text>
+
+<circle cx="500" cy="180" r="16" fill="#3B82F6"/>
+<text x="465" y="225" fill="white" font-size="18">RAG</text>
+
+<circle cx="700" cy="180" r="16" fill="#3B82F6"/>
+<text x="650" y="225" fill="white" font-size="18">LangChain</text>
+
+<circle cx="900" cy="180" r="16" fill="#3B82F6"/>
+<text x="850" y="225" fill="white" font-size="18">LangGraph</text>
+
+<circle cx="1080" cy="180" r="16" fill="#3B82F6"/>
+<text x="1015" y="225" fill="white" font-size="18">AI Agents</text>
+
+<rect
+x="60"
+y="300"
+width="1080"
+height="170"
+rx="16"
+fill="#111827"
+stroke="#1E293B"/>
+
+<text
+x="90"
+y="350"
+fill="#60A5FA"
+font-size="24"
+font-family="Segoe UI">
+Current AI Focus
+</text>
+
+<text x="90" y="395" fill="white" font-size="18">✔ LLM Applications</text>
+
+<text x="360" y="395" fill="white" font-size="18">✔ Retrieval Augmented Generation</text>
+
+<text x="760" y="395" fill="white" font-size="18">✔ LangChain</text>
+
+<text x="90" y="435" fill="white" font-size="18">✔ LangGraph</text>
+
+<text x="360" y="435" fill="white" font-size="18">✔ MCP</text>
+
+<text x="760" y="435" fill="white" font-size="18">✔ Agentic AI</text>
+
+</svg>

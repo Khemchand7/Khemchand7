@@ -1,0 +1,90 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="520" rx="20" fill="#0B1120"/>
+
+  <text x="60" y="60"
+        fill="white"
+        font-size="34"
+        font-family="Segoe UI"
+        font-weight="700">
+    Backend Engineering Roadmap
+  </text>
+
+  <text x="60" y="95"
+        fill="#94A3B8"
+        font-size="18"
+        font-family="Segoe UI">
+    Current learning journey
+  </text>
+
+  <!-- Timeline -->
+  <line x1="120" y1="180" x2="1080" y2="180"
+        stroke="#3B82F6"
+        stroke-width="6"/>
+
+  <!-- Step 1 -->
+  <circle cx="120" cy="180" r="16" fill="#3B82F6"/>
+  <text x="85" y="230" fill="white" font-size="18">Java</text>
+
+  <!-- Step 2 -->
+  <circle cx="300" cy="180" r="16" fill="#3B82F6"/>
+  <text x="250" y="230" fill="white" font-size="18">Spring Boot</text>
+
+  <!-- Step 3 -->
+  <circle cx="500" cy="180" r="16" fill="#3B82F6"/>
+  <text x="455" y="230" fill="white" font-size="18">REST APIs</text>
+
+  <!-- Step 4 -->
+  <circle cx="700" cy="180" r="16" fill="#3B82F6"/>
+  <text x="640" y="230" fill="white" font-size="18">Hibernate</text>
+
+  <!-- Step 5 -->
+  <circle cx="900" cy="180" r="16" fill="#3B82F6"/>
+  <text x="840" y="230" fill="white" font-size="18">Multithreading</text>
+
+  <!-- Step 6 -->
+  <circle cx="1080" cy="180" r="16" fill="#3B82F6"/>
+  <text x="1000" y="230" fill="white" font-size="18">System Design</text>
+
+  <!-- Bottom Section -->
+  <rect x="60" y="300" width="1080" height="150"
+        rx="16"
+        fill="#111827"
+        stroke="#1E293B"/>
+
+  <text x="90" y="350"
+        fill="#60A5FA"
+        font-size="24"
+        font-family="Segoe UI">
+      Current Focus
+  </text>
+
+  <text x="90" y="390"
+        fill="white"
+        font-size="18"
+        font-family="Segoe UI">
+      ✔ Advanced Java
+  </text>
+
+  <text x="360" y="390"
+        fill="white"
+        font-size="18"
+        font-family="Segoe UI">
+      ✔ Spring Boot
+  </text>
+
+  <text x="650" y="390"
+        fill="white"
+        font-size="18"
+        font-family="Segoe UI">
+      ✔ Database Design
+  </text>
+
+  <text x="930" y="390"
+        fill="white"
+        font-size="18"
+        font-family="Segoe UI">
+      ✔ System Design
+  </text>
+
+</svg>

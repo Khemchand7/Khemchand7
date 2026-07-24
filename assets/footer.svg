@@ -1,0 +1,38 @@
+<svg width="1600" height="140" viewBox="0 0 1600 140" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1600" height="140" fill="#0B1120"/>
+
+<line
+x1="0"
+y1="2"
+x2="1600"
+y2="2"
+stroke="#3B82F6"
+stroke-width="2"/>
+
+<text
+x="800"
+y="70"
+text-anchor="middle"
+fill="white"
+font-size="22"
+font-family="Segoe UI"
+font-weight="600">
+
+Thanks for visiting my GitHub Profile
+
+</text>
+
+<text
+x="800"
+y="105"
+text-anchor="middle"
+fill="#94A3B8"
+font-size="16"
+font-family="Segoe UI">
+
+Backend Engineering • System Design • AI Engineering
+
+</text>
+
+</svg>

@@ -1,0 +1,199 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0B1120"/>
+<stop offset="100%" stop-color="#111827"/>
+</linearGradient>
+
+<linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#3B82F6"/>
+<stop offset="100%" stop-color="#60A5FA"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="8" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M40 0H0V40" fill="none" stroke="#1F2937" stroke-width="1"/>
+</pattern>
+
+</defs>
+
+<rect width="1600" height="500" fill="url(#bg)"/>
+
+<rect width="1600" height="500" fill="url(#grid)" opacity="0.45"/>
+
+<!-- Decorative Nodes -->
+
+<circle cx="1180" cy="80" r="5" fill="#3B82F6"/>
+<circle cx="1280" cy="170" r="5" fill="#3B82F6"/>
+<circle cx="1370" cy="90" r="5" fill="#3B82F6"/>
+<circle cx="1450" cy="220" r="5" fill="#3B82F6"/>
+<circle cx="1240" cy="300" r="5" fill="#3B82F6"/>
+<circle cx="1400" cy="370" r="5" fill="#3B82F6"/>
+<circle cx="1100" cy="380" r="5" fill="#3B82F6"/>
+
+<line x1="1180" y1="80" x2="1280" y2="170" stroke="#3B82F6" stroke-width="2"/>
+<line x1="1280" y1="170" x2="1370" y2="90" stroke="#3B82F6" stroke-width="2"/>
+<line x1="1370" y1="90" x2="1450" y2="220" stroke="#3B82F6" stroke-width="2"/>
+<line x1="1450" y1="220" x2="1400" y2="370" stroke="#3B82F6" stroke-width="2"/>
+<line x1="1280" y1="170" x2="1240" y2="300" stroke="#3B82F6" stroke-width="2"/>
+<line x1="1240" y1="300" x2="1100" y2="380" stroke="#3B82F6" stroke-width="2"/>
+<line x1="1240" y1="300" x2="1400" y2="370" stroke="#3B82F6" stroke-width="2"/>
+
+<!-- Left Accent -->
+
+<rect x="80" y="78" width="10" height="320" rx="5" fill="url(#blue)"/>
+
+<!-- Title -->
+
+<text
+x="120"
+y="140"
+font-size="52"
+font-family="Segoe UI, Helvetica, Arial"
+font-weight="700"
+fill="white">
+
+KHEM CHAND
+
+</text>
+
+<!-- Subtitle -->
+
+<text
+x="120"
+y="195"
+font-size="24"
+font-family="Segoe UI, Helvetica, Arial"
+fill="#93C5FD">
+
+Backend Engineer · Java · Spring Boot · SQL · AI Engineering
+
+</text>
+
+<!-- Description -->
+
+<text
+x="120"
+y="250"
+font-size="20"
+font-family="Consolas, monospace"
+fill="#CBD5E1">
+
+Building scalable backend systems.
+
+</text>
+
+<text
+x="120"
+y="282"
+font-size="20"
+font-family="Consolas, monospace"
+fill="#CBD5E1">
+
+Designing robust software architectures.
+
+</text>
+
+<text
+x="120"
+y="314"
+font-size="20"
+font-family="Consolas, monospace"
+fill="#CBD5E1">
+
+Exploring the future of AI Engineering.
+
+</text>
+
+<!-- Code Block -->
+
+<rect
+x="1000"
+y="130"
+rx="18"
+ry="18"
+width="500"
+height="260"
+fill="#0F172A"
+stroke="#334155"
+stroke-width="2"/>
+
+<circle cx="1035" cy="158" r="7" fill="#EF4444"/>
+<circle cx="1060" cy="158" r="7" fill="#F59E0B"/>
+<circle cx="1085" cy="158" r="7" fill="#10B981"/>
+
+<text
+x="1030"
+y="205"
+font-size="18"
+font-family="Consolas"
+fill="#60A5FA">
+
+public class Engineer {
+
+</text>
+
+<text
+x="1060"
+y="240"
+font-size="18"
+font-family="Consolas"
+fill="#E5E7EB">
+
+String focus = "Backend";
+
+</text>
+
+<text
+x="1060"
+y="275"
+font-size="18"
+font-family="Consolas"
+fill="#E5E7EB">
+
+String learning = "AI";
+
+</text>
+
+<text
+x="1060"
+y="310"
+font-size="18"
+font-family="Consolas"
+fill="#E5E7EB">
+
+String mission = "Build at Scale";
+
+</text>
+
+<text
+x="1030"
+y="350"
+font-size="18"
+font-family="Consolas"
+fill="#60A5FA">
+
+}
+
+</text>
+
+<!-- Bottom Glow -->
+
+<rect
+x="0"
+y="490"
+width="1600"
+height="10"
+fill="url(#blue)"
+filter="url(#glow)"/>
+
+</svg>
